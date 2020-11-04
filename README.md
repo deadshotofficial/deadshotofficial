@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/deadshot3r" target="blank"><img src="https://img.shields.io/twitter/follow/deadshot3r?logo=twitter&style=for-the-badge" alt="deadshot3r" /></a> </p>
 
-- 🔭 Check My Public Project - [Exynos](https://github.com/deadshotgfx/exynos)
+- 🔭 Check My Public Project - [**Exynos Bot**](https://github.com/deadshotgfx/exynos-bot)
 
 - 🌱 I’m currently learning **JavaScript, Python and CSS with HTML**
 
