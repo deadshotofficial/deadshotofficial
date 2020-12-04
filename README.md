@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/deadshot3r" target="blank"><img src="https://img.shields.io/twitter/follow/deadshot3r?logo=twitter&style=for-the-badge" alt="deadshot3r" /></a> </p>
 
-- 🔭 Check My Public Project - [**Exynos Bot**](https://github.com/deadshotgfx/exynos-bot)
+- 🔭 Check My Bot - [**Exynos**](https://exynos-discord.github.io/)
 
 - 🌱 I’m currently learning **JavaScript, Python and CSS with HTML**
 
 - 📫 Reach me Via E-mail - **raj.deadshot8888@gmail.com**
 
-- 📄 Check Out My Portfolio - [**Portfolio**](https://deadshotgfx.github.io)
+- 📄 Check Out My Portfolio - [**Portfolio**](https://deadshotgfx.github.io/)
 
 - ⚡ Fun fact - **I love music, but I am a bit shy to sing xD :)**
 
