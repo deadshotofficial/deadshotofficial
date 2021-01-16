@@ -19,4 +19,4 @@
 <a href="https://instagram.com/deadshotgraphics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deadshot3r" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadshot-dev08&show_icons=true&locale=en" alt="deadshotofficial" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadshotofficial&show_icons=true&locale=en" alt="deadshotofficial" /></p>
