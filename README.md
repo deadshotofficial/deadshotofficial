@@ -16,7 +16,7 @@
 
 - 📫 Reach me Via E-mail - **raj.deadshot8888@gmail.com**
 
-- 📄 Check Out My Portfolio - [**Portfolio**](https://deadshotofficial.github.io/)
+- 📄 Check Out My Portfolio - [**Portfolio**](https://deadshot.tech)
 
 - ⚡ Fun fact - **I love music, but I am a bit shy to sing xD :)**
 
