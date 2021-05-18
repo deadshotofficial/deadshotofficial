@@ -14,7 +14,7 @@
 
 - 🌱 I’m learning **JavaScript, Python and CSS with HTML**
 
-- 📫 Reach me Via E-mail - **raj.deadshot8888@gmail.com**
+- 📫 Reach me Via E-mail - **deadshot3r@protonmail.ch**
 
 - 📄 Check Out My Portfolio - [**Portfolio**](https://deadshot.tech)
 
