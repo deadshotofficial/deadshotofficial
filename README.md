@@ -6,8 +6,6 @@
 
  - What I Like: Watching Anime, Programming, Making Bots etc etc.
 
- - Reasons to Like Me: Infinite :)
-
 ## Some More:
 
 - 🔭 Check My Bot - [**Exynos**](https://exynos-discord.github.io/)
