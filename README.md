@@ -1,6 +1,6 @@
 ## About Me:
 
- - I'm Raj, but you can call me Ash or DeadShot or any of the three!
+ - I'm Raj, but you can call me DeadShot or Sho or any of the three!
  
  - A Student, Graphics Designer, Verified Discord Developer and A Programmer (ofcourse, xD)
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m learning **JavaScript, Python and CSS with HTML**
 
-- 📫 Reach me Via E-mail - **deadshot3r@protonmail.ch**
+- 📫 Reach me Via E-mail - **deadshot3r@pm.me**
 
 - 📄 Check Out My Portfolio - [**Portfolio**](https://deadshot.tech)
 
