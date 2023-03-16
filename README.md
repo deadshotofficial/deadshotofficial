@@ -29,7 +29,7 @@
 <a href="https://www.npmjs.com/"><img alt="NPM" src ="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
  
 - <a href="https://www.adobe.com/in/products/photoshop.html"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/></a>
-<a href="https://https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-FFA500?style=for-the-badge&logo=blender&logoColor=black"></a>
+<a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-FFA500?style=for-the-badge&logo=blender&logoColor=black"></a>
 - <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
