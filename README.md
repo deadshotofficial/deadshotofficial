@@ -45,4 +45,4 @@
 <a href="https://twitter.com/deadshot3r"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-007FFF?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/deadshotgraphics"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.behance.net/deadshotdzn"><img alt="Twitter" src="https://img.shields.io/badge/Behance-0047AB?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://discord.gg/rA24PVQpJQ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://discord.gg/SDh8gAsJHp"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
