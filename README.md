@@ -12,6 +12,13 @@
   </a>
 </p>
 <br>
+
+<h2 align="center"><img alt="think" src="https://emoji.discadia.com/emojis/236890b9-e603-4924-8c75-437aa2ee716a.PNG" width="20" height="20" > Spotify Recents:</h2>
+<p align="center"> 
+  <a href="https://open.spotify.com/user/6gsfrxrzjgiywupxiavq9ovlm" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=6gsfrxrzjgiywupxiavq9ovlm&count=3&unique=on"/> </a> 
+</p>
+<br>
+
 <h2 align="center"><img alt="think" src="https://emoji.discadia.com/emojis/5a9782ab-db3c-4a63-b34a-5ddc5dfa8ff9.PNG" width="20" height="20" > My Socials:</h2>
 <p align="center"><a href="https://twitter.com/deadshot3r"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-007FFF?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/deadshotgraphics"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white"></a>
