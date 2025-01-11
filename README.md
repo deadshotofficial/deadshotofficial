@@ -8,7 +8,7 @@
 <h2 align="center"><img alt="think" src="https://emoji.discadia.com/emojis/ef9ce615-5a85-4c78-aea9-be520763c40c.GIF" width="20" height="20" > Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql,ps,blender,aws,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql,ps,discordjs,vercel,ubuntu,vscode" />
   </a>
 </p>
 <br>
