@@ -7,7 +7,8 @@
 <h2 align="center"><img src="https://emoji.discadia.com/emojis/e223d3fe-5741-44c1-8c48-c6871143523b.PNG" width="20" height="20" /> About Me</h2>
 
 <p align="center">
-  🧑‍💻 19 years old • He/Him • 🇮🇳 <br>
+  🧑‍💻 A 19 y/o coder (probably). I just go with the vibe <br>
+  🎓 Majoring in Computer Science & Engineering <br>
   🤖 Developer of a Verified Discord Bot - <a href="https://dsc.gg/exynos"><strong>Exynos</strong></a> <br>
   🌐 Community Manager for several large-scale online communities <br>
 </p>
@@ -18,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql,ps,discordjs,vercel,ubuntu,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql,ps,pr,discordjs,vercel,ubuntu,vscode,bash" />
   </a>
 </p>
 
